@@ -74,7 +74,7 @@ Ensure the following are installed:
 ### Steps
 1. Clone the repository using Git:
    ```bash
-   git clone https://github.com/your-username/goal-calendar-webapp.git
+   git clone https://github.com/bachan-singh/goal-calendar-webapp.git
    cd goal-calendar-webapp
    ```
 2. Navigate to the client directory and install dependencies:
@@ -93,7 +93,7 @@ Ensure the following are installed:
      ```env
      DB_HOST=localhost
      DB_USER=root
-     DB_PASSWORD=yourpassword
+     DB_PASSWORD=
      DB_NAME=goal_calendar
      ```
 5. Start the backend server:
